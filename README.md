@@ -1,4 +1,4 @@
-### Hi ![image](https://user-images.githubusercontent.com/78059071/147840464-b1bbba1a-8cfc-4e17-893f-0aa1ca8259f3.png),im ahirose20.
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px">, I'm ahirose.
 
 
 <!--
